@@ -610,3 +610,11 @@ q {font-style: italic;}
   color: #f1f1f1;
   padding: 20px;
 }
+
+.reference-links{
+  color: transparent;
+  font-size: x-small;
+}
+.backlinks{
+  display: inline-flex;
+}
